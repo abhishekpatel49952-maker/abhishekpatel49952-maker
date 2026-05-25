@@ -13,6 +13,6 @@ I am currently doing my BE in Electronics and Communication Engineering
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhishekpatel49952-maker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhishekpatel49952-maker&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=abhishekpatel49952-maker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
